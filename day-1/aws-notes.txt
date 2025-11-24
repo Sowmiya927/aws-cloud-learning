@@ -1,0 +1,6 @@
+My AWS Journey
+
+Day 1:
+Learned GitHub basics
+Created my first folder
+My goal is to become a Cloud Architect

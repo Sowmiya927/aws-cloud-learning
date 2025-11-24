@@ -1,0 +1,4 @@
+Day 1 - GitHub Setup Completed
+Created first repository
+Added README file
+Learning AWS and GitHub
